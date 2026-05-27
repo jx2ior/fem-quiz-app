@@ -3,7 +3,7 @@
 ![Low Code](https://img.shields.io/badge/Approach-Low%20Code-00A88F)
 ![Responsive](https://img.shields.io/badge/Layout-Responsive-blue)
 
-# fem-quiz-app
+# Frontend Mentor Challenge – Quiz App
 Power Apps Canvas quiz application that allows users to select quiz subjects, answer questions, receive validation and score feedback, switch between light and dark themes, and interact with a responsive interface optimized for different screen sizes.
 
 ## 🚀 Getting Started
